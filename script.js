@@ -1,4 +1,4 @@
-process.env.CHROME_PATH = "C:/chrome-win/chrome.exe"; // The place of Chrome on you system
+process.env.CHROME_PATH = ""; // The place of Chrome on you system (REQUIRED!)
 process.env.NICKJS_PROXY = ""; // NickJS proxy
 process.env.http_proxy = ""; // Env proxy
 const url = 'https://fontawesome.com/cheatsheet';
