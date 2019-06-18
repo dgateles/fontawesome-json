@@ -17,3 +17,4 @@ npm run start
 
 ### Requeriments
 You need Chromium or Chrome installed on your system.
+`process.env.CHROME_PATH = "";`
