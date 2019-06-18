@@ -35,7 +35,7 @@ const nick = new Nick({
     };
     callback(null, groups)
   })
-  await fs.writeFileSync('icons.json', JSON.stringify(iconsList, null, 4), (err) => {
+  await fs.writeFileSync('fontawesome.json', JSON.stringify(iconsList, null, 4), (err) => {
     if (err) throw err;
     console.log('The file has been saved!');
   });
