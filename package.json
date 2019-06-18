@@ -1,0 +1,14 @@
+{
+  "name": "fa-generator",
+  "version": "1.0.0",
+  "description": "Generate a FontAwesome JSON",
+  "main": "script.js",
+  "dependencies": {
+    "nickjs": "^0.3.6"
+  },
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
